@@ -25,7 +25,7 @@ $ pipenv install
 
 5. Run the server:
 ```
-`$ pipenv run python blockchain.py`
+$ pipenv run python blockchain.py
 ```
 
 ## Usage
