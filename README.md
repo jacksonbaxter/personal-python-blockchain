@@ -53,3 +53,7 @@ Make a POST request to http://localhost:5000/transactions/new with a body fulfil
  "amount": 1
 }
 ```
+
+### View the Chain
+
+Make a GET request to http://localhost:5000/chain
