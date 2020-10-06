@@ -1,4 +1,4 @@
-# Personal Python Blockchain implementation
+# Personal Python Blockchain Implementation
 My own personal simple, local, blockchain implementation using Python.
 
 
